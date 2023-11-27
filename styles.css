@@ -14,6 +14,13 @@
 
     margin-left: 20%;
 }
+.content_scale{
+    transition: transform 0.3s ease-in-out;
+}
+.content_scale:hover{
+
+    transform: scale(1.07);
+}
 
 
 
